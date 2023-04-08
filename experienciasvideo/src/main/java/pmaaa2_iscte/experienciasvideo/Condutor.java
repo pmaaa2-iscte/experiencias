@@ -7,4 +7,8 @@ public class Condutor {
 	public void setCondutor(String condutor) {
 		this.condutor = condutor;
 	}
+	
+	public String getCondutor() {
+		return condutor;
+	}
 }
